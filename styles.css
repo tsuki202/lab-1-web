@@ -1,0 +1,165 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  margin-top: 10px;
+  margin-bottom: 5px;
+  margin-left: 200px;
+  margin-right: 200px;
+  border-color: #000; 
+  border-width: 2px;
+  border-style: solid;
+  font-size: 16px;
+  color: #000000;
+}
+footer{
+  background-color: #6b6b6b;
+  color: black;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+header {
+  font-family: sans-serif;
+  background-color: #fff;
+  text-align: center;
+  color: #000;
+  padding-bottom: 25px;
+  margin: auto;
+  border: 30px solid rgb(175, 131, 90); 
+  border: 10px solid rgb(221, 186, 153); 
+}
+nav{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+nav ul{
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}
+nav ul li{
+  margin: 0;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  padding-bottom: 50px;
+}
+nav ul li a{
+  text-decoration: none;
+  color: #000000;
+}
+.a1{
+  background-color: rgb(0, 163, 109);
+  
+}
+.a2{
+  background-color: rgb(0, 119, 255);
+}
+.a3{
+  background-color: rgb(241, 255, 114);
+}
+.a4{
+  background-color: rgb(189, 86, 86);
+}
+.a5{
+  background-color: rgb(62, 0, 119);
+}
+
+nav 
+main{
+  display: flex;
+  flex-wrap: wrap;
+  color: #000;
+}
+p {
+  margin: 5px;
+  padding: 10px;
+  border: 1px;
+  width: 30%;
+}
+.A{
+  background-color: rgb(0, 119, 103);
+}
+
+.D {
+  background-color: aqua;
+}
+.D1 {
+  background-color: rgb(45, 160, 122);
+}
+.D3 {
+  background-color: rgb(253, 192, 112);
+}
+.C1{
+  background-color: rgb(183, 247, 247);
+}
+.C2{
+  background-color: blue;
+}
+.C3{
+  background-color: blueviolet;
+}
+.C4{
+  background-color: bisque;
+}
+.C5{
+  background-color: burlywood;
+}
+.B {
+  background-color: aquamarine;
+}
+.B2{
+  background-color: cadetblue;
+}
+.B1 {
+  background-color: rgb(165, 26, 26);
+}
+.text{
+  text-align: center;
+  background-color: #b3b3b3;
+}
+.three {
+  background-color: rgb(158, 3, 3);
+}
+.five {
+  background-color: rgb(196, 194, 88);
+}
+.four {
+  background-color: rgb(230, 109, 109);
+}
+.I {
+  background-color: rgb(0, 255, 149);
+}
+.II {
+  background-color: rgb(253, 68, 191);
+}
+.III {
+  background-color: rgb(253, 124, 49);
+}
+.III {
+  background-color: rgb(253, 124, 49);
+}
+.VI {
+  background-color: rgb(196, 196, 196);
+}
+.VII {
+  background-color: rgb(80, 79, 79);
+}
+.VIII {
+  background-color: rgb(95, 94, 94);
+}
+.IX {
+  background-color: rgb(204, 0, 255);
+}
+.X {
+  background-color: rgb(250, 248, 140);
+}
+.XI {
+  background-color: rgb(250, 105, 202);
+}
+
+
